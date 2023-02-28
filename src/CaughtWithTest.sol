@@ -9,3 +9,7 @@ contract CaughtWithTest {
         number = newNumber + 1;
     }
 }
+
+
+
+
