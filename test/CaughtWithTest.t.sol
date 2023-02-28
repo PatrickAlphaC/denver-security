@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
 import "forge-std/Test.sol";
@@ -11,7 +11,7 @@ contract CaughtWithTestTest is Test {
         caughtWithTest = new CaughtWithTest();
     }
 
-    function testIncrement() public {
+    function testSetNumber() public {
         uint256 myNumber = 55;
         caughtWithTest.setNumber(myNumber);
         assertEq(myNumber, caughtWithTest.number());

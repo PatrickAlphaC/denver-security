@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
 contract CaughtWithTest {
@@ -9,7 +9,5 @@ contract CaughtWithTest {
         number = newNumber + 1;
     }
 }
-
-
 
 
