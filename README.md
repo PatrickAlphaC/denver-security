@@ -1,3 +1,20 @@
+# About
+
+Learning how to use security tooling to find bugs!
+
+- [About](#about)
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Quickstart](#quickstart)
+- [Let's use tools to find bugs!](#lets-use-tools-to-find-bugs)
+  - [Manul Review](#manul-review)
+  - [Test Suite](#test-suite)
+  - [Static Analysis](#static-analysis)
+    - [Prerequisites](#prerequisites)
+  - [Fuzzing](#fuzzing)
+  - [Stateful fuzzing (invariants)](#stateful-fuzzing-invariants)
+  - [Formal Verification (SMT Checker)](#formal-verification-smt-checker)
+
 # Getting Started
 
 ## Requirements
